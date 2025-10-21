@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Ren\u00e9 Descartes",
+        "gpa": 4.0,
+        "grade": "Freshman",
+        "degree": "Mathematics"
+    },
+    {
+        "id": 2,
+        "name": "Socrates",
+        "gpa": 2.5,
+        "grade": "Senior",
+        "degree": "Philosophy"
+    },
+    {
+        "id": 3,
+        "name": "Thomas Hobbes",
+        "gpa": 3.5,
+        "grade": "Sophomore",
+        "degree": "Political Science"
+    },
+    {
+        "id": 4,
+        "name": "Epictetus",
+        "gpa": 3.8,
+        "grade": "Junior",
+        "degree": "Computer Engineering"
+    },
+    {
+        "id": 5,
+        "name": "Homer",
+        "gpa": 3.7,
+        "grade": "Senior",
+        "degree": "English"
+    }
+]
