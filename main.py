@@ -6,9 +6,11 @@ students.json file. It is hard coded becuase this project is about API functiona
 not data management.
 """
 from flask import Flask, request
+from flask_cors import CORS
 import json
 
 app = Flask(__name__) 
+CORS(app)  # allows requests from any origin
 
 with open("students.json") as data_file:
     students = json.load(data_file) 
