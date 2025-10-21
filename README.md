@@ -6,7 +6,7 @@ This is a simple Flask-based API that allows users to view, add, and delete stud
 The project is meant to demonstrate API functionality and usage. I hard coded the data in the json file since I was on a limited timeline and just wanted to display API functionality, so to manually change the data you can edit the .json file or add students through a POST call on a local server.
 
 ## Deployed API
-[Student Data API on Render](https://student-data-public-api.onrender.com)
+[Student Data API on Render](https://student-data-public-api.onrender.com/students)
 
 The home page is simple.
 To view all students go to: https://student-data-public-api.onrender.com/students
